@@ -1,0 +1,26 @@
+.title {font-size: 2rem;
+  margin-left: 10px}
+
+body {
+    background-color: rgb(107, 128, 166);
+  }
+
+.achievements h2{
+  font-family: 2rem;
+  color: azure;
+  margin-left: 35px
+}
+
+.text {font-family: 1rem;
+  color: aliceblue;
+  margin-left: 35px
+  }
+
+.tableauPlaceholder {
+  height: 30%;
+  width: 30%;
+}
+
+.anchor {
+  color: rgb(238, 225, 243);
+}
